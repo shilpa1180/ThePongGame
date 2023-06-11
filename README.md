@@ -1,2 +1,1 @@
-# ThePongGame
-2 players pong game using python
+# The Pong Game
